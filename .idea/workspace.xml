@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab047d18-e832-4258-aa14-e74811f12922" name="Changes" comment="first site layout" />
+    <list default="true" id="ab047d18-e832-4258-aa14-e74811f12922" name="Changes" comment="first site layout">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +59,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.stylelint": "",
     "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
@@ -101,7 +104,7 @@
       <workItem from="1669722411076" duration="1061000" />
       <workItem from="1669723554719" duration="3000" />
       <workItem from="1669749631650" duration="367000" />
-      <workItem from="1669750089489" duration="1707000" />
+      <workItem from="1669750089489" duration="2505000" />
     </task>
     <task id="LOCAL-00001" summary="first site layout">
       <created>1669750390431</created>
@@ -152,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669751520964</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="first site layout">
+      <created>1669752037635</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669752037635</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +179,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="dev" />
                       </list>
                     </value>
                   </entry>
