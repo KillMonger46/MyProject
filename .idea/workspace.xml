@@ -61,6 +61,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/web" />
@@ -98,7 +101,7 @@
       <workItem from="1669722411076" duration="1061000" />
       <workItem from="1669723554719" duration="3000" />
       <workItem from="1669749631650" duration="367000" />
-      <workItem from="1669750089489" duration="1315000" />
+      <workItem from="1669750089489" duration="1707000" />
     </task>
     <task id="LOCAL-00001" summary="first site layout">
       <created>1669750390431</created>
@@ -135,7 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669751245733</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="first site layout">
+      <created>1669751409591</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669751409591</updated>
+    </task>
+    <task id="LOCAL-00007" summary="first site layout">
+      <created>1669751520964</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669751520964</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +163,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
