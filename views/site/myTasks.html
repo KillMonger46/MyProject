@@ -7,9 +7,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
-    <script src="../vendor/js/jquery-3.6.1.js"></script>
-    <script src="../vendor/js/jquery.paulund_modal_box.js"></script>
-    <link href="../vendor/css/style.css" rel="stylesheet">
+    <script src="../../vendor/js/jquery-3.6.1.js"></script>
+    <script src="../../vendor/js/jquery.paulund_modal_box.js"></script>
+    <link href="../../vendor/css/style.css" rel="stylesheet">
     <title>Document</title>
 </head>
 <body>
@@ -18,28 +18,45 @@
     <div class="container nav-panel text-center">
         <ul class="nav nav-pills">
             <li class="nav-item">
-              <a class="nav-link btn-task" href="#">Task.Pro</a>
+              <a class="nav-link" href="./about.html">Все задачи</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link disabled" href="#">Добавить задачу</a>
+              <a class="nav-link" href="./addTask.html">Добавить задачу</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link disabled" href="#">Мои задачи</a>
+              <a class="nav-link  btn-task active" href="#">Мои задачи</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active button_sign_in" aria-current="page" href="../views/site/login.html">Войти</a>
+                <button type="button" class="btn-close btn_close" aria-label="Close"></button>
             </li>
           </ul>
     </div>
 </header>
-<div class="container text-center text-contact">
-  <h3>Организуйте <br>
-     работу и жизнь.</h3>
-     <div>Task.Pro - список дел и таск-менеджер № 1 в <br>
-      мире. Он поможет обрести концентрацию, <br>
-    организовать и покой.</div>
-    <br>
-  <div><a class="nav-link btn-free" href="#">Начать бесплатно</a></div>
+<div class="container text-center text-contact all-tasks">
+    <table>
+        <tbody>
+          <tr>
+            <th>Задачи</th>
+            <th>Исполнитель</th>
+            <th>Статус</th>
+            <th>Комментарии</th>
+          </tr>
+          <tr>
+            <td>Задача 1</td>
+            <td>Хамхоев</td>
+            <td>В работе/Выполнено</td>
+            <td>Коментарии</td>
+          </tr>
+          <tr>
+            <td>Задача 2</td>
+            <td>Хамхоев</td>
+            <td>В работе/Выполнено</td>
+            <td>Коментарии</td>
+          </tr>
+        </tbody>
+      </table>
+
+      
 </div>
 
 </div>

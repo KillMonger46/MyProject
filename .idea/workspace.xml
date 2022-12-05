@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab047d18-e832-4258-aa14-e74811f12922" name="Changes" comment="first site layout">
+    <list default="true" id="ab047d18-e832-4258-aa14-e74811f12922" name="Changes" comment="layout of the first site">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +26,11 @@
       <list>
         <option value="muslim &lt;xammuslim06@gmail.com&gt;" />
       </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -106,6 +111,8 @@
       <workItem from="1669749631650" duration="367000" />
       <workItem from="1669750089489" duration="2706000" />
       <workItem from="1669752802878" duration="558000" />
+      <workItem from="1669754784245" duration="95000" />
+      <workItem from="1669755130559" duration="1264000" />
     </task>
     <task id="LOCAL-00001" summary="first site layout">
       <created>1669750390431</created>
@@ -163,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669752037635</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="layout of the first site">
+      <created>1669754815346</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669754815346</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +209,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first site layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="first site layout" />
+    <MESSAGE value="layout of the first site" />
+    <option name="LAST_COMMIT_MESSAGE" value="layout of the first site" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
