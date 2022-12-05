@@ -1,0 +1,169 @@
+.parent_container {
+    width: 100%;
+    max-width: 880px;
+    outline: 2px solid #000;
+    border-radius: 10px;
+    border-bottom: 13px solid #fff;
+}
+
+.nav-panel {
+    margin-top: 20px;
+    height: 40px;
+    padding-left: 0;
+    padding-right: 0;
+   
+}
+
+.button_sign_in {
+    margin-top: 1px;
+    margin-left: 403px;
+}
+
+.btn-task {
+    color: black;
+    margin-top: 6px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.nav {
+    --bs-nav-link-hover-color: black;
+   
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color:black;
+    background-color: #00c4ff;
+    
+}
+.nav-link {
+    color:#000;
+}
+
+.text-contact {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: white;
+    width: 100%;
+    max-width: 854px;
+    outline: 2px solid #000;
+    margin-top: 5px;
+
+}
+.btn-free {
+    background-color: red;
+    color: antiquewhite;
+    font-size: 12px;
+    width: 150px;
+    border-radius: 7px;
+    margin: auto;
+    height: 30px;
+    padding-top: 6px;
+} 
+
+.btn-close {
+    margin-top: 13px;
+    outline: 2px solid #000;
+    border-radius: 0%;
+    margin-left: 690px;
+    padding-left: 15px;
+    font-size: 12px;
+    
+
+}
+.form-control{
+    width: 200px;
+}
+.text_input_fields {
+   padding-left: 100px; 
+}
+.textLoginPassword {
+    padding-left: 250px;
+    padding-top: 30px;
+}
+.login {
+    background-color: #00c4ff;
+    width: 100px;
+    border-radius: 5px;
+    height: 30px;
+    
+}
+.password {
+    background-color: #00c4ff;
+    width: 100px;
+    border-radius: 5px;
+    height: 30px;
+   margin-top: 20px;
+}
+.sign_in {
+    background-color: #00c4ff;
+    width: 100px;
+    border-radius: 5px;
+    height: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-right: 40px;
+}
+a {
+    color: #000;
+    text-decoration: none;
+    --bs-link-color: #000;
+    --bs-link-hover-color: #000;
+}
+
+.btn_close {
+    margin-left: 430px;
+}
+
+
+   .all-tasks {
+    padding-top: 5px;
+    padding-bottom: 5px;
+   }
+   
+
+   table {
+    
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    background:  white;
+    color: #0C213B;
+    width: 100%; /* Ширина таблицы */
+  }
+  
+ 
+  th {
+    padding: 5px; 
+    border: 1px solid #000000;
+  }
+  td {
+    font-size: 0.8em;
+    padding: 5px 7px;
+    border: 1px solid #000000;
+  }
+  .first {
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .form-control {
+    border-radius: 0px;
+  }
+  
+  .add_btn {
+    background-color: #00c4ff;
+  }
+
+  #floatingInput {
+    color:dimgrey;
+    border: 1px solid #000000;
+  }
+  
+  .table_addTask {
+   width: 100%;
+   padding-right: 25px;
+   padding-left: 25px;
+   margin-right: 0;
+  }
