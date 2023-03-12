@@ -98,7 +98,7 @@ With dependencies installed and our project folder ready for us to start coding,
    {
       // ...
       "scripts": {
-        "start": "parcel serve src/index.html --public-url / --dist-dir dist",
+        "start": "parcel serve src/index.html --web-url / --dist-dir dist",
         "test": "echo \"Error: no test specified\" && exit 1"
       },
       // ...

@@ -77,34 +77,48 @@
 .text_input_fields {
    padding-left: 100px; 
 }
+
 .textLoginPassword {
     padding-left: 250px;
     padding-top: 30px;
 }
-.login {
+
+
+   .fio, .login, .email {
     background-color: #00c4ff;
     width: 100px;
     border-radius: 5px;
     height: 30px;
+    margin-bottom: 24px;
     
 }
+.email {
+    background-color: #00c4ff;
+    width: 100px;
+    border-radius: 5px;
+    height: 30px;
+    margin-top: 24px;
+    
+}
+
 .password {
     background-color: #00c4ff;
     width: 100px;
     border-radius: 5px;
     height: 30px;
-   margin-top: 20px;
-}
+   }
+
 .sign_in {
     background-color: #00c4ff;
     width: 100px;
     border-radius: 5px;
     height: 50px;
     padding-left: 25px;
-    padding-right: 25px;
+    padding-right: 24px;
     padding-bottom: 5px;
     padding-top: 5px;
     margin-right: 40px;
+
 }
 a {
     color: #000;
